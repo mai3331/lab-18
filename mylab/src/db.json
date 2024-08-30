@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product_name": "iPhone 15",
+      "product_desc": "6.1″ display, Apple A17 Pro chipset, 3274 mAh battery, 1024 GB storage, 8 GB RAM",
+      "price": 1100,
+      "image": "images/download.jpeg"
+    },
+    {
+      "id": "2",
+      "product_name": "MacBook Air",
+      "product_desc": "14-core CPU with 10 performance cores and 4 efficiency cores · 30-core GPU ",
+      "price": 1250,
+      "image": "images/download (1).jpeg"
+    },
+    {
+      "id": "3",
+      "product_name": "Samsung S23 Ultra",
+      "product_desc": " 5G 256GB 12GB RosaSamsung Galaxy S23 Ultra 5G 256GB 12GB Rosa",
+      "price": 1300,
+      "image": "images/09e604e8-f015-4937-b687-6e3f6b3a41dc.f133a87c8b388589309861e4f8a2d587.webp"
+    },
+    {
+      "id": "4",
+      "product_name": "Microsoft Surface Laptop Go 2 (Latest Model)",
+      "product_desc": "12.4 Touchscreen Laptop - Platinum, Windows 11 (Intel i5, 8GB RAM, 128GB) - FR/Bilingual",
+      "price": 1800,
+      "image": "images/images (4).jpeg"
+    },
+    {
+      "id": "5",
+      "product_name": "Iphone 13",
+      "product_desc": " 6.1″ display, Apple A15 Bionic chipset, 3095 mAh battery, 1024 GB storage, 6 GB RAM,",
+      "price": 1000,
+      "image": "images/images (5).jpeg"
+    }
+  ]
+}

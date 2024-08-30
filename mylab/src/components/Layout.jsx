@@ -1,12 +1,16 @@
-// Layout.js
 import React from 'react';
-import Navigation from './Navigation';
+import { Outlet } from 'react-router-dom';
+import Navbar from './Navbar';
+import Breadcrumbs from './BreadCrumbs';
 
-const Layout = ({ children }) => {
+const Layout = () => {
   return (
     <div>
-      <Navigation />
-      <main>{children}</main>
+      <Navbar />
+      <Breadcrumbs/>
+      <main>
+        <Outlet /> 
+      </main>
     </div>
   );
 };
